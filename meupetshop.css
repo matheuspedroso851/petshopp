@@ -1,0 +1,14 @@
+
+    ul{
+        display:flex;
+        font-family: sans-serif;
+         justify-content: space-evenly;
+         list-style-type: none;
+         align-items: center;
+         padding: 20px;
+         font-weight: bold;
+       text-decoration: none;}
+    a{
+        text-decoration: none;
+        
+    }
